@@ -1,7 +1,7 @@
 This tasks was completed as an introduction to 'advanced software development techniques' including subjects such as defensive copying, casting, and late binding. The aim was to establish interfaces and classes that could be used in the development of an application, but not to develop an interface.
 
 System Overview:
-  The shelter management system facilitates the temporary housing of stray or unwanted pets, preparing them for eventual adoption. The system must manage two types of pets: cats and dogs. It offers services for adding new pets to the shelter and facilitating pet adoption to customers. Additionally, it maintains records of both pets within the shelter and customers who adopt them.
+The shelter management system facilitates the temporary housing of stray or unwanted pets, preparing them for eventual adoption. The system must manage two types of pets: cats and dogs. It offers services for adding new pets to the shelter and facilitating pet adoption to customers. Additionally, it maintains records of both pets within the shelter and customers who adopt them.
 
 Tasks/Subtasks:
 Part 1: Adding a new pet to the shelter:
