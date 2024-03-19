@@ -3,7 +3,7 @@ package main.customer;
 /**
  * Name - A class representing a customer's name, containing their first and last name
  *
- * @author Newcastle University Student ID: 23055481
+ * @author Billy Peters
  * 21/02/2024
  */
 public final class Name {

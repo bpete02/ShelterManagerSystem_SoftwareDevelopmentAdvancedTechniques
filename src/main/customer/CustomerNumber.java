@@ -8,7 +8,7 @@ import java.util.Set;
 /**
  * CustomerNumber - A class representing a customer's unique ID, formed from their initial, unique serial number, and the date of issue of their record.
  *
- * @author Newcastle University Student ID: 23055481
+ * @author Billy Peters
  * 21/02/2024
  */
 public final class CustomerNumber {

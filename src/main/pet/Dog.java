@@ -4,7 +4,7 @@ package main.pet;
  * Dog - a class that represents a dog, extending the abstract class: AbstractPet (which implements Pet interface)
  * Dog implements Trainable interface and NeedsGarden marker interface.
  *
- * @author Newcastle University Student ID: 23055481
+ * @author Billy Peters
  * 21/02/2024
  */
 public final class Dog extends AbstractPet implements Trainable,NeedsGarden{

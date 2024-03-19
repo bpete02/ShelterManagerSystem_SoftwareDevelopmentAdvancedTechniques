@@ -6,7 +6,7 @@ import java.util.Calendar;
 /**
  * CustomerRecord - A class representing a customer, containing their name, unique ID, date of birth, date of issue of record, and if they have a garden
  *
- * @author Newcastle University Student ID: 23055481
+ * @author Billy Peters
  * 21/02/2024
  */
 public final class CustomerRecord{

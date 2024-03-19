@@ -3,7 +3,7 @@ package main.pet;
 /**
  * Trainable - an interface representing a trainable pet
  *
- * @author Newcastle University Student ID: 23055481
+ * @author Billy Peters
  * 21/02/2024
  */
 public interface Trainable extends Pet {

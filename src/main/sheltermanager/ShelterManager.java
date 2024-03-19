@@ -9,7 +9,7 @@ import java.util.*;
 /**
  * ShelterManager - class that stores and alters lists of Pets, Customers, and which pets have been adopted by which customers
  *
- * @author Newcastle University Student ID: 23055481
+ * @author Billy Peters
  * 21/02/2024
  */
 public class ShelterManager {

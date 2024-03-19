@@ -3,7 +3,7 @@ package main.pet;
 /**
  * AbstractPet - an abstract class that acts as am object factory for classes that implement the Pet interface
  *
- * @author Newcastle University Student ID: 23055481
+ * @author Billy Peters
  * 21/02/2024
  */
 public abstract class AbstractPet implements Pet{

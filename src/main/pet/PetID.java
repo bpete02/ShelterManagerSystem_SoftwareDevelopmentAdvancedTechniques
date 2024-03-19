@@ -1,13 +1,12 @@
 package main.pet;
 
-import java.util.Iterator;
 import java.util.Set;
 import java.util.TreeSet;
 
 /**
  * PetID - class representing a Pet object's unique ID
  *
- * @author Newcastle University Student ID: 23055481
+ * @author Billy Peters
  * 21/02/2024
  */
 public final class PetID {
@@ -40,7 +39,7 @@ public final class PetID {
         this.twoDigitIdComponent = countExistingIds+1;
         if(!IDS.add(Character.toString(singleLetterIdComponent) + String.format("%02d", twoDigitIdComponent))){
             throw new Exception("Id already exists");
-        };
+        }
     }
 
     /**

@@ -3,7 +3,7 @@ package main.pet;
 /**
  * Cat - a class that represents a cat, extending the abstract class: AbstractPet (which implements Pet interface)
  *
- * @author Newcastle University Student ID: 23055481
+ * @author Billy peters
  * 21/02/2024
  */
 public final class Cat extends AbstractPet{
